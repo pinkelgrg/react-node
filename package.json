@@ -1,0 +1,21 @@
+{
+    "name": "react-node",
+    "version": "1.0.0",
+    "description": "react node",
+    "main": "index.js",
+    "engines": {
+        "node": "8.9.1",
+        "npm": "5.5.1"
+    },
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Pinkel Gurung",
+    "license": "UNLICENSED",
+    "dependencies": {
+        "express": "^4.16.2"
+    },
+    "devDependencies": {
+        "eslint": "^4.12.1"
+    }
+}
